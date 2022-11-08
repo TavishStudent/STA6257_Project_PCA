@@ -129,6 +129,30 @@ the data to improve estimates. The results of the paper were that the
 fixed effects model incorporating CPCA (common PCA) out preformed all
 others. [@duras2022fixed]]{style="color: #8B814C;"}
 
+[**6. Principal component analysis**]{style="color: #8B814C;"}
+
+[This is a brief article discussing the accumulation of error when applying PCA to large datasets and how to locate important patterns when using the method and how scaling can affect the dataset being analyzed. It provides several graphs and figures.
+]style="color: #8B814C;"}
+
+[**7. PCAtest: testing the statistical significance of Principal Component Analysis in R**]{style="color: #8B814C;"}
+
+[This article begins with a brief history of PCA and then moves on to discuss an R package known as PCAtest which implements permutation-based statistical tests to evaluate the overall significance of a PCA. The article describes the process that PCAtest implements: a bootstrapping procedure that calculates various statistics related to PCA. From there the article discusses the results of an example dataset that has been analyzed using PCA and then that PCA analyzed using PCAtest. Visuals and graphical aids are included. Finally the article concludes by discussing when to use PCA and how to interpret the results. 
+]style="color: #8B814C;"}
+
+[**8. An Overview of Principal Component Analysis**]{style="color: #8B814C;"}
+
+[This article is a brief overview of PCA and describes the methods used throughout the process of performing PCA while mentioning its application in facial recognition software and then mentioning some advantages and disadvantages of using the method.
+]style="color: #8B814C;"}
+
+[**9. Exploration of Principal Component Analysis: Deriving Principal Component Analysis Visually Using Spectra**]{style="color: #8B814C;"}
+
+[This article introduces PCA and then goes on to describe methods and providing examples of PCA while using spectral graphs as visual aids. A brief description of the matrix theory behind PCA is analyzed through the use of spectral graphs and finally instructions on how to interpret results from PCA is given as a general model.
+]style="color: #8B814C;"}
+
+[**10. Principal component analysis: a review and recent developments**]{style="color: #8B814C;"}
+
+[This article describes PCA’s usefulness in data science and in dealing with large datasets and from there gives a basic description of the methods involved in PCA followed by an example. The article then proceeds to discuss some issues related to PCA while providing plots and visuals and then examines some adaptations of PCA with examples included.]style="color: #8B814C;"}
+
 ## [Methods]{style="color: #191970;"}
 
 ## [Analysis and Results]{style="color: #191970;"}
